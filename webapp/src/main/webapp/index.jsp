@@ -1,4 +1,4 @@
-<h1> Hello, sharan Welcome to Technologies !!! </h1>
+<h1> Hello, sharan Welcome to nologies !!! </h1>
 
 
 <html>
@@ -297,6 +297,9 @@ B.A
 </form>
  
 </body>
+
+ 
+</html>
 h3{
   font-family: Calibri; 
   font-size: 25pt;         
@@ -321,5 +324,3 @@ table{
 table.inner{
   border: 0px
 }
- 
-</html>
