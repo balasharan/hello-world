@@ -295,7 +295,9 @@ B.A
 </table>
  
 </form>
- h3{
+ 
+</body>
+h3{
   font-family: Calibri; 
   font-size: 25pt;         
   font-style: normal; 
@@ -320,5 +322,4 @@ table.inner{
   border: 0px
 }
  
-</body>
 </html>
